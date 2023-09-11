@@ -1,0 +1,33 @@
+th,td{
+    border-radius: 25px;
+}
+
+.container1
+{
+    display: flex;
+}
+#b{
+    margin: 20px;
+    height: 100px;
+    width: 150px;
+    border: 2px solid;
+    border: 2px solid green;
+}
+.box{
+    border-radius: 15px;
+  
+}
+.rect{
+    border-radius: 30px;
+}
+.rhom{
+    border-radius: 50px;
+}
+.circle{
+    border-radius: 50%;
+
+}
+.nx{
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+}

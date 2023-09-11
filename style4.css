@@ -1,0 +1,36 @@
+.box {
+    border: 3px solid black;
+    height: 650px;
+    width: 750px;
+    margin: auto;
+  }
+  .boxes {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    margin: 20px 4px;
+    margin-left: 0px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+  .green {
+    background-color: rgba(0, 128, 0, 0.679);
+  }
+  .blue {
+    background-color: rgba(0, 123, 255, 0.621);
+  }
+  .red {
+    background-color: rgba(255, 0, 0, 0.737);
+  }
+  .grey {
+    background-color: rgba(128, 128, 128, 0.925);
+  }
+  .p{
+    margin: 30px 171px;
+position: absolute;
+  }
+  .boxes:hover{
+    cursor: pointer;
+    height: 110px;
+    width: 110px;
+  }

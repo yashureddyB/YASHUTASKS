@@ -1,0 +1,22 @@
+table,tr{
+    border-left: 2px solid rgba(128, 128, 128, 0.24);
+    border-collapse: collapse;
+    margin: auto;
+}
+.hr{
+    background-color: rgb(61, 185, 61);
+    color: white;
+}
+.ar{
+    width: 600px;
+}
+.br{
+    width: 400px;
+}
+.tr{
+    background-color: rgba(128, 128, 128, 0.24);
+    border-left: 2px solid rgba(128, 128, 128, 0.24);
+}
+td{
+    padding: 11px;
+}
